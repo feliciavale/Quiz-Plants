@@ -1,0 +1,126 @@
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\QuizPlants.dll.config
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\QuizPlants.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\QuizPlants.pdb
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\csc.exe
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\csc.exe.config
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\csc.rsp
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\csi.exe
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\csi.exe.config
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\csi.rsp
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.Managed.Core.targets
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.AppContext.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Collections.Immutable.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Console.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Globalization.Calendars.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.IO.Compression.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.IO.FileSystem.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Net.Http.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Net.Sockets.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Reflection.Metadata.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.ValueTuple.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Xml.XmlDocument.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Xml.XPath.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\vbc.exe
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\vbc.exe.config
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\vbc.rsp
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\VBCSCompiler.exe
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\roslyn\VBCSCompiler.exe.config
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\EntityFramework.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\EntityFramework.SqlServer.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\EntityFramework.xml
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\EntityFramework.SqlServer.xml
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\obj\Debug\QuizPlants.csproj.AssemblyReference.cache
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\obj\Debug\QuizPlants.csproj.CoreCompileInputs.cache
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\obj\Debug\QuizPlants.csproj.Up2Date
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\obj\Debug\QuizPlants.dll
+D:\File Hezki Kuliah\Semester 4\Pattern Software Design\Lab\Practice\QuizSparing\QuizPlants\QuizPlants\obj\Debug\QuizPlants.pdb
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\QuizPlants.dll.config
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\QuizPlants.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\QuizPlants.pdb
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\csc.exe
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\csc.exe.config
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\csc.rsp
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\csi.exe
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\csi.exe.config
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\csi.rsp
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.AppContext.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Console.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Net.Http.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\vbc.exe
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\vbc.exe.config
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\vbc.rsp
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\EntityFramework.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\EntityFramework.SqlServer.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\EntityFramework.xml
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\EntityFramework.SqlServer.xml
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\obj\Debug\QuizPlants.csproj.AssemblyReference.cache
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\obj\Debug\QuizPlants.csproj.CoreCompileInputs.cache
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\obj\Debug\QuizPlants.csproj.Up2Date
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\obj\Debug\QuizPlants.dll
+C:\Users\Vale\Documents\SEM4\PATTERN SOFTWARE DESIGN\QuizPlants\QuizPlants\QuizPlants\obj\Debug\QuizPlants.pdb

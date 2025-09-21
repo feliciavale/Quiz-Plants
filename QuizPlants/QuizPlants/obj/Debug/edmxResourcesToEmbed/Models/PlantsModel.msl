@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PlantsDBModelStoreContainer" CdmEntityContainer="PlantsDBEntities">
+    <EntitySetMapping Name="Plants">
+      <EntityTypeMapping TypeName="PlantsDBModel.Plant">
+        <MappingFragment StoreEntitySet="Plants">
+          <ScalarProperty Name="PlantId" ColumnName="PlantId" />
+          <ScalarProperty Name="PlantName" ColumnName="PlantName" />
+          <ScalarProperty Name="PlantType" ColumnName="PlantType" />
+          <ScalarProperty Name="PlantOrigin" ColumnName="PlantOrigin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

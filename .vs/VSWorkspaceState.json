@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QuizPlants",
+    "\\QuizPlants\\packages",
+    "\\QuizPlants\\QuizPlants",
+    "\\QuizPlants\\QuizPlants\\App_Data",
+    "\\QuizPlants\\QuizPlants\\Factory",
+    "\\QuizPlants\\QuizPlants\\Repository",
+    "\\QuizPlants\\QuizPlants\\Singleton",
+    "\\QuizPlants\\QuizPlants\\Views"
+  ],
+  "SelectedNode": "\\QuizPlants\\QuizPlants\\App_Data\\PlantsDB.mdf",
+  "PreviewInSolutionExplorer": false
+}
